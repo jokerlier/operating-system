@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-	int i, sum = 1;
+	int i, sum = 1;            //test
 	
 	for(i=1;i<=10;i++){
 		sum = sum * i;
